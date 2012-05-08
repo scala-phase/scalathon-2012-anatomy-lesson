@@ -1,0 +1,26 @@
+/* custom styles */
+
+body {
+  font-size: 24pt;
+  font-weight: normal;
+}
+
+h1 {
+  color: #b80000;
+  font-size: 48pt;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: black;
+  font-size: 40pt;
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-top: 15px;
+}
+
+p {
+  margin-top: 15px;
+}
